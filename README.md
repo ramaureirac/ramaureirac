@@ -15,5 +15,5 @@ My name is Rodrigo Maureira Contreras, a C.S Student from Chile and a Site Relia
 
 - 🌱 I’m currently learning cloud technologies and providers such as Google Cloud & Amazon Web Services.
 - 👯 I’m looking to collaborate on Open Source Software.
-- 💬 Ask me about Docker, Kubernetes, Cloud Reliable Architecture, DevOps Culture and Cloud Migration from on premises network.
+- 💬 Ask me about Docker, Kubernetes, Cloud Reliable Architecture and DevOps / SRE Culture.
 - 📫 How to reach me: https://t.me/rodmaureirac
