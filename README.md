@@ -5,6 +5,7 @@ My name is Rodrigo Maureira Contreras, a C.S Student from Chile and a Site Relia
 <p>
   <img src="https://github.com/rodmaureirac/rodmaureirac/blob/main/img/docker.png?raw=true" width="25" height="25">
   <img src="https://github.com/rodmaureirac/rodmaureirac/blob/main/img/kube.png?raw=true" width="25" height="25">
+  <img src="https://github.com/rodmaureirac/rodmaureirac/blob/main/img/openshift.png?raw=true" width="25" height="25">
   <img src="https://github.com/rodmaureirac/rodmaureirac/blob/main/img/gcp.png?raw=true" width="25" height="25">
   <img src="https://github.com/rodmaureirac/rodmaureirac/blob/main/img/aws.png?raw=true" width="25" height="25">
   <img src="https://github.com/rodmaureirac/rodmaureirac/blob/main/img/node.png?raw=true" width="25" height="25">
