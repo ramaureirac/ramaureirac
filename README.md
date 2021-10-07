@@ -1,6 +1,6 @@
 ### Hello World! 🤙
 
-My name is Rodrigo Maureira Contreras, a C.S Student from Chile and a Site Reliability Engineer / Cloud Architect Entusiast. I'm Currently working in a small StartUp company optimizing cloud resources and deployments, avoiding repetive toil and coding microservices as a BackEnd TypeScript Developer.
+My name is Rodrigo Maureira Contreras, a C.S Student from Chile and a Site Reliability Engineer / Cloud Architect Entusiast. I'm Currently working in a small StartUp company creating cloud serverless infraestructure, CI/CD pipelines, optimizing repetive toil and coding microservices as a BackEnd TypeScript Developer.
 
 <p>
     <img src="https://github.com/rodmaureirac/rodmaureirac/blob/main/img/docker.png?raw=true" width="25" height="25">
