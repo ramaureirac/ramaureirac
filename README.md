@@ -1,6 +1,6 @@
 ### Hello World! 🤙
 
-My name is Rodrigo Maureira Contreras, a C.S Student from Chile and a Site Reliability Engineer / Cloud Architect Entusiast. I'm Currently working in a small StartUp company creating cloud serverless infraestructure, CI/CD pipelines, optimizing repetive toil and coding microservices as a BackEnd TypeScript Developer.
+My name is Rodrigo Maureira Contreras, a C.S Student from Chile and a Site Reliability Engineer / Cloud Architect Entusiast. I'm Currently working for [CLM Digital Solutions](https://www.linkedin.com/company/clm-digital-solutions/) learning new cloud technologies, managing different microservices inside Kubernetes and monitoring their current state with Elastic Stack.
 
 <p>
     <img src="https://github.com/rodmaureirac/rodmaureirac/blob/main/img/docker.png?raw=true" width="25" height="25">
@@ -15,8 +15,3 @@ My name is Rodrigo Maureira Contreras, a C.S Student from Chile and a Site Relia
     <img src="https://github.com/rodmaureirac/rodmaureirac/blob/main/img/psgsql.png?raw=true" width="25" height="25">
     <img src="https://github.com/rodmaureirac/rodmaureirac/blob/main/img/mongo.png?raw=true" width="25" height="25">
 </p>
-
-- 🌱 I’m currently learning cloud technologies and providers such as Google Cloud & Amazon Web Services.
-- 👯 I’m looking to collaborate on Open Source Software.
-- 💬 Ask me about Docker, Kubernetes, Cloud Reliable Architecture and DevOps / SRE Culture.
-- 📫 How to reach me: https://t.me/rodmaureirac
