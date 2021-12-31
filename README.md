@@ -15,3 +15,5 @@ My name is Rodrigo Maureira Contreras, a C.S Student from Chile and a Site Relia
     <img src="https://github.com/rodmaureirac/rodmaureirac/blob/main/img/psgsql.png?raw=true" width="25" height="25">
     <img src="https://github.com/rodmaureirac/rodmaureirac/blob/main/img/mongo.png?raw=true" width="25" height="25">
 </p>
+
+[Resume](https://github.com/rodmaureirac/rodmaureirac/blob/main/docs/RESUME.pdf) | [Contact](mailto:rodmaureirac@pm.me) | [LinkedIn](https://linkedin.com/in/rodmaureirac)
