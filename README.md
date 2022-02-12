@@ -1,7 +1,6 @@
 ### Hello World! 🤙
 
-My name is Rodrigo Maureira Contreras, a C.S Student from Chile and a Site Reliability Engineer / Cloud Architect Enthusiast. I'm Currently working for [CLM Digital Solutions](https://www.linkedin.com/company/clm-digital-solutions/) learning new cloud technologies, managing different microservices inside Kubernetes and monitoring their current state with Elastic Stack.
-
+My name is Rodrigo Maureira Contreras, a Site Reliability Engineer / Cloud Architect Enthusiast. I'm Currently working for [CLM Digital Solutions](https://www.linkedin.com/company/clm-digital-solutions/) learning new cloud technologies, managing different microservices inside Kubernetes / Elastic Container Service and provisioning infraestrucutre with Terraform.
 <p>
     <img src="https://github.com/rodmaureirac/rodmaureirac/blob/main/img/docker.png?raw=true" width="25" height="25">
     <img src="https://github.com/rodmaureirac/rodmaureirac/blob/main/img/kube.png?raw=true" width="25" height="25">
