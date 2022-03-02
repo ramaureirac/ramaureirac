@@ -1,9 +1,9 @@
 \documentclass{article}
 \usepackage[utf8]{inputenc}
-\usepackage[margin=0.45in, a4paper]{geometry}
+\usepackage[margin=0.33in, a4paper]{geometry}
 \usepackage[T1]{fontenc}
 \usepackage{enumitem}
-
+\usepackage{hyperref}
 
 \begin{document}
 \thispagestyle{empty}
@@ -11,7 +11,7 @@
 \noindent
 \begin{minipage}[ht]{0.76\linewidth}
 {\Huge \textbf{Rodrigo Andrés\\ Maureira Contreras}}\\
-{\footnotesize linkedin.com/in/ramaureirac | github.com/ramaureirac | t.me/ramaureirac}
+{\footnotesize \url{https://linkedin.com/in/ramaureirac} | \url{https://github.com/ramaureirac} | \url{https://t.me/ramaureirac}}
 
 \end{minipage}
 \hspace{0.60cm}
@@ -35,19 +35,23 @@ Cloud Computing Practitioner with more than one year of experience creating and 
 \setlist[itemize]{leftmargin=0.425cm}
 
 \subsubsection*{WORKING EXPERIENCE}
-\textbf{{CLM Digital Solutions}:} \textit{Semi Senior Site Reliability Engineer}.\\
+\textbf{\href{https://clmdigitalsolutions.com/}{CLM Digital Solutions}:} \textit{Semi Senior Site Reliability Engineer}.\\
 {\footnotesize OCTOBER 2021 - NOW.}
 \begin{itemize}
-    \item[>>] \textbf{Automation} initiative to eliminate toil in almost any IT task throught \textbf{Python} or \textbf{Bash} scripting. Thanks to this, customers were able to do their work in a more comfortable way.
-    \item[>>] Responsible for teaching how to use the \textbf{GitLab pipelines} in order to deploy new features into different \textbf{Kubernetes} environments and how to rollback in case something fails. 
-    \item[>>] Kubernetes administrator and SLA \textbf{monitoring} with the \textbf{ELK} (Elasticsearch, Logstash and Kibana) stack.
-    \item[>>] Infrastructure as code (IaC) with \textbf{Terraform} in order to implement a simple DRP and an automatic provisioning thought GitLab pipelines. Experience with both \textbf{AWS} and \textbf{GCP} cloud providers.
-    \item[>>] \textbf{Incident resolution} and on-call support for customers like Falabella and WorkMate.
+    \item[>>] \textbf{Automation} initiative in almost any IT task throught \textbf{Python} or \textbf{Bash}.
+    \item[>>] Administration and provisioning of \textbf{AWS} and \textbf{GCP} infrastructure (like GKE, EKS, ECS, VPC, S3, RDS, CloudSQL, etc.) in customers' cloud via \textbf{Terraform}. 
+    \item[>>] Experience rising \textbf{technical demos} (PoC) for \textbf{comercial proposals} or \textbf{improvement initiatives} for the current projects.
+    \item[>>] \textbf{Infrastructure as code} (IaC) in order to implement a simple \textbf{disaster recovery plan}.
+    \item[>>] Deployment of micro-services built with \textbf{NodeJS} (TypeScript) and \textbf{Maven} (Java) for the backend and \textbf{Angular} for the frontend. 
+    \item[>>] Design of \textbf{GitLab CI pipelines} for continuous deployment for each environment (GitFlow)
+    \item[>>] Responsible for teaching how to use the \textbf{GitLab} in order to deploy new features into different \textbf{Kubernetes} / \textbf{ECS} environments and how to rollback in case something fails.
+    \item[>>] Backgrounds working on large IT (\textbf{DevSecOps}) projects for customers like Falabella, WorkMate and Corona. \textbf{Incident resolution} and on-call support
+    \item[>>] Very basics of \textbf{ELK} / \textbf{Grafana} for observability and \textbf{SonarQube} for code quality.
 \end{itemize}
 
 \vspace{3mm}
 
-\textbf{{Pontificia Universidad Católica de Valparaíso}:} \textit{Teaching Assistant.}\\
+\textbf{\href{https://inf.ucv.cl/}{Pontificia Universidad Católica de Valparaíso}:} \textit{Teaching Assistant.}\\
 {\footnotesize MARCH 2019 - DECEMBER 2021.}
 \begin{itemize}
     \item[>>] Students’ coach and teaching assistant in various computer science courses such as Programming, Computer Networks, Operating Systems and IT Project Administration. 
@@ -58,15 +62,15 @@ Cloud Computing Practitioner with more than one year of experience creating and 
 \textbf{{Freelancer}:} \textit{Site Reliability Engineer, DevOps and Programmer}.\\
 {\footnotesize MARCH 2019 - OCTOBER 2021.}
 \begin{itemize}
-    \item[>>] Freelance in different start-ups and small business such as PortalEducativo.net, FID Seguros Generales and PrevComp.
-    \item[>>] In PortalEducativo.net we were working with \textbf{Google Cloud} main tools and GitLab CI since day one. Clean up initiative and \textbf{resources organization}. Thanks to this our team were able to save up to \$300 per project.
-    \item[>>] Leader and main promoter of \textbf{DevOps} culture at FID Seguros Generales. Now the company is able to release features into production in a secure way and as fast as possible.
+    \item[>>] Freelance at different small business such as PortalEducativo.net, FID Seguros and PrevComp.
+    \item[>>] Clean up initiative and \textbf{resources organization} at PortalEducativo.net. Thanks to this our team save up to \$300 per project. Use of \textbf{GCP} and \textbf{GitLab} since day one.
+    \item[>>] Leader and main promoter of \textbf{DevOps culture} at FID Seguros Generales. Now the company is able to release features into production in a secure way and as fast as possible.
 \end{itemize}
 
 \subsubsection*{PERSONAL PROJECTS}
 \vspace{1mm}
 
-\textbf{{Godot Tactical RPG}:} \textit{3D tactics game template like FireEmblem, FinalFantasy or XCOM}\\
+\textbf{\href{https://github.com/ramaureirac/godot-tactical-rpg}{Godot Tactical RPG}:} \textit{A 3D tactics game template like FireEmblem, FinalFantasy or XCOM}\\
 {\footnotesize JULY 2019 - NOW.}
 
 \subsubsection*{STUDIES, COURSES AND CERTIFICATIONS}
@@ -82,10 +86,6 @@ Cloud Computing Practitioner with more than one year of experience creating and 
 \\
 \textbf{{LinkedIn}:} \textit{Prepare for the AWS Certified Cloud Practitioner Exam.}\\
 {\footnotesize NOVEMBER 2021 - DECEMBER 2021.}
-\\
-\\
-\textbf{{CertiProf}:} \textit{Scrum Foundation Professional Certificate (SFPC).}\\
-{\footnotesize DECEMBER 2021.}
 
 
 \end{minipage}
@@ -108,8 +108,10 @@ Cloud Computing Practitioner with more than one year of experience creating and 
     \item[] Docker.
     \item[] NGINX
     \item[] Git.
-    \item[] GitLab CI.
-    \item[] Kubernetes.
+    \item[] GitLab.
+    \item[] Jenkins.
+    \item[] SonarQube.
+    \item[] Kubernetes / ECS.
     \item[] DevOps Culture.
     \item[] SCRUM framework.
     \item[] Incident Resolution.
