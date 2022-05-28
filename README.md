@@ -1,6 +1,7 @@
 ### Hello World! 🤙
 
-My name is Rodrigo A. Maureira Contreras a Site Reliability Engineer / Cloud Architect Enthusiast from Valparaíso, Chile. I'm Currently working for [CLM Digital Solutions](https://www.linkedin.com/company/clm-digital-solutions/) as part of the DevSecOps Team.
+My name is Rodrigo A. Maureira Contreras a Site Reliability Engineer & Cloud Architect Enthusiast from Valparaíso, Chile. I'm Currently working for [CLM Digital Solutions](https://www.linkedin.com/company/clm-digital-solutions/) as part of the DevSecOps team; providing fast, secure and reliable cloud infrastructure and ensuring developers’ independence when referring to deploy new features into this new brand infrastructure. 
+[[Resume]](https://github.com/ramaureirac/ramaureirac/raw/main/docs/RESUME.pdf)
 
 <p>
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/docker.png?raw=true" width="25" height="25">
@@ -16,4 +17,16 @@ My name is Rodrigo A. Maureira Contreras a Site Reliability Engineer / Cloud Arc
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/mongo.png?raw=true" width="25" height="25">
 </p>
 
-[Resume](https://github.com/ramaureirac/ramaureirac/raw/main/docs/RESUME.pdf) | [Email](mailto:ramaureirac@pm.me) | [LinkedIn](https://linkedin.com/in/ramaureirac) | [Telegram](https://t.me/ramaureirac)
+#### About Me
+
+- 🛫 Passionate about traveling and tourism.
+- 🎮 Casual gamer, currently looking for a new openworld title.
+- 🍸 I really like Mojitos.
+- 🐕 Dogs are better than cats.
+- 💬 I enjoy teaching! so fell free to ask me about anything.
+- 🐧 Huge fan of Linux and open-source.
+
+#### Reachme
+- [LinkedIn](https://linkedin.com/in/ramaureirac)
+- [Email](mailto:ramaureirac@pm.me)
+- [Telegram](https://t.me/ramaureirac)
