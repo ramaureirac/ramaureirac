@@ -26,7 +26,10 @@ My name is Rodrigo A. Maureira Contreras a Site Reliability Engineer & Cloud Arc
 #### About Me
 
 - 🛫 Passionate about traveling and tourism.
+- 🛥 I would love to have my own motor boat. Not for racing or fishing, but for cruising the coast.
 - 🎮 Casual gamer, currently looking for a new openworld title.
+- 🍿 Huge fan of thriller, sci-fi and Nolan's movies in general.
+- ⚡️ Also like DC comics & movies, especially the Flashpoint story arc.
 - 🍸 I really like Mojitos. Can I get a Mojito, pls?
 - 🐕 Dogs are better than cats.
 - 💬 I enjoy teaching! so fell free to ask me about anything.
