@@ -1,6 +1,6 @@
 ### Hello World! 🤙
 
-My name is Rodrigo A. Maureira Contreras a Site Reliability Engineer & Cloud Architect Enthusiast from Valparaíso, Chile. I'm Currently working for [CLM Digital Solutions](https://www.linkedin.com/company/clm-digital-solutions/) as part of the DevSecOps team; providing fast, secure and reliable cloud infrastructure and ensuring developers’ independence when referring to deploy new features on these new resources. 
+My name is Rodrigo A. Maureira Contreras a Site Reliability Engineer & Cloud Architect Enthusiast from Valparaíso, Chile. I'm Currently working for [CLM Digital Solutions](https://www.linkedin.com/company/clm-digital-solutions/) as part of the DevSecOps team; providing fast, secure and reliable cloud infrastructure and ensuring developers’ independence when referring to deploy new features inside these new resources. 
 [[Resume]](https://github.com/ramaureirac/ramaureirac/raw/main/docs/RESUME.pdf)
 
 <p>
@@ -23,7 +23,7 @@ My name is Rodrigo A. Maureira Contreras a Site Reliability Engineer & Cloud Arc
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/gitlab.png?raw=true" width="25" height="25">
 </p>
 
-#### About Me
+#### About me
 
 - 🛫 Passionate about traveling and tourism.
 - 🛥 I would love to have my own motor boat. Not for racing or fishing, but for cruising the coast.
@@ -35,7 +35,7 @@ My name is Rodrigo A. Maureira Contreras a Site Reliability Engineer & Cloud Arc
 - 💬 I enjoy teaching! so fell free to ask me about anything.
 - 🐧 Huge fan of Linux and open-source.
 
-#### Reachme
+#### Reach me
 - [LinkedIn](https://linkedin.com/in/ramaureirac)
 - [Email](mailto:ramaureirac@pm.me)
 - [Telegram](https://t.me/ramaureirac)
