@@ -21,7 +21,7 @@ My name is Rodrigo A. Maureira Contreras a Site Reliability Engineer & Cloud Arc
 
 - 🛫 Passionate about traveling and tourism.
 - 🎮 Casual gamer, currently looking for a new openworld title.
-- 🍸 I really like Mojitos.
+- 🍸 I really like Mojitos. Can I get a Mojito, pls?
 - 🐕 Dogs are better than cats.
 - 💬 I enjoy teaching! so fell free to ask me about anything.
 - 🐧 Huge fan of Linux and open-source.
