@@ -16,4 +16,4 @@ My name is Rodrigo A. Maureira Contreras a Site Reliability Engineer / Cloud Arc
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/mongo.png?raw=true" width="25" height="25">
 </p>
 
-[Resume](https://github.com/ramaureirac/ramaureirac/raw/main/docs/RESUME.pdf) | [Contact](mailto:ramaureirac@pm.me) | [LinkedIn](https://linkedin.com/in/ramaureirac)
+[Resume](https://github.com/ramaureirac/ramaureirac/raw/main/docs/RESUME.pdf) | [Email](mailto:ramaureirac@pm.me) | [LinkedIn](https://linkedin.com/in/ramaureirac) | [Telegram](https://t.me/ramaureirac)
