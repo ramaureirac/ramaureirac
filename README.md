@@ -6,6 +6,7 @@ My name is Rodrigo A. Maureira Contreras a Site Reliability Engineer & Cloud Arc
 <p>
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/tux.png?raw=true" width="25" height="25">
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/terra.png?raw=true" width="25" height="25">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/bash.png?raw=true" width="25" height="25">
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/docker.png?raw=true" width="25" height="25">
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/kube.png?raw=true" width="25" height="25">
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/openshift.png?raw=true" width="25" height="25">
@@ -21,19 +22,22 @@ My name is Rodrigo A. Maureira Contreras a Site Reliability Engineer & Cloud Arc
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/psgsql.png?raw=true" width="25" height="25">
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/mongo.png?raw=true" width="25" height="25">
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/gitlab.png?raw=true" width="25" height="25">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/jenkins.png?raw=true" width="25" height="25">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/azure-pipelns.png?raw=true" width="25" height="25">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/godot.png?raw=true" width="25" height="25">
 </p>
 
 #### About me
 
 - 🛫 Passionate about traveling and tourism.
-- 🛥 I would love to have my own motor boat. Not for racing or fishing, but for cruising the coast.
-- 🎮 Casual gamer, currently looking for a new openworld title.
+- 🛥 I would love to have my own motor boat just for navigate and cruising the coast.
+- 🎮 Casual gamer, currently looking for a new open-world title.
 - 🍿 Huge fan of thriller, sci-fi and Nolan's movies in general.
 - ⚡️ Also like DC comics & movies, especially the Flashpoint story arc.
 - 🍸 I really like Mojitos. Can I get a Mojito, pls?
 - 🐕 Dogs are better than cats.
-- 💬 I enjoy teaching! so fell free to ask me about anything.
 - 🐧 Huge fan of Linux and open-source.
+- 💬 I enjoy teaching! so fell free to ask me about anything.
 
 #### Reach me
 - [LinkedIn](https://linkedin.com/in/ramaureirac)
