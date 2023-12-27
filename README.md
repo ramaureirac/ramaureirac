@@ -1,7 +1,7 @@
 ### Hello World! 🤙
 
 My name is Rodrigo A. Maureira Contreras a Site Reliability Engineer & Cloud Architect Enthusiast from Valparaíso, Chile.
-[[Resume]]([https://bit.ly/rmc-resume-sre])
+[[Resume]](https://bit.ly/rmc-resume-sre)
 
 <p>
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/tux.png?raw=true" width="25" height="25">
