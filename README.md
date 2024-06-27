@@ -34,7 +34,7 @@ These are the technologies I normally work with:
 - 💬 I like teaching! so fell free to ask me about anything.
 
 
-#### Reach mew
+#### Reach me
 - [LinkedIn](https://linkedin.com/in/ramaureirac)
 - [Email](mailto:ramaureirac@pm.me)
 - [Telegram](https://t.me/ramaureirac)
