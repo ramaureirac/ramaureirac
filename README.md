@@ -26,7 +26,7 @@ These are the technologies I normally work with:
 #### Things about me
 
 - 🎹 I love music, guitars and synthesizers - Don't know how to play any of these.
-- 🥃 Average JW gold or any other honey-blend whiskey enjoyer.
+- 🥃 Average honey-blend whiskey enjoyer.
 - 🍿 Huge fan of thriller, sci-fi, Burton and Nolan's movies.
 - 🐕 Dogs rule, cats drool.
 - 💿 I love dropping money on CDs, DVDs, and some old videogames.
