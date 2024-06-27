@@ -1,49 +1,40 @@
 ### Hello World! 🤙
 
-My name is Rodrigo A. Maureira Contreras a Site Reliability Engineer & Cloud Architect Enthusiast from Valparaíso, Chile.
-[[Resume]](https://bit.ly/rmc-resume-sre)
+My name is Rodrigo Maureira and I'm a Solutions Architect enthusiast from Valparaíso, Chile.
 
+Copilot suggested to talk about myself, but there isn't much to say. In fact I'm pretty basic: I enjoy traveling, music, whiskey, and videogames. Currently, I work as DevOps and do C.S. classes for a living. I own an orange cat named Ruby.
+
+These are the technologies I normally work with:
 <p>
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/tux.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/terra.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/bash.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/docker.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/kube.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/openshift.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/helm.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/opa-gatekeeper.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/istio.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/fargate.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/git.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/gcp.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/aws.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/nginx.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/node.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/python.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/dotnet_core.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/maria.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/psgsql.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/firebase.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/mongo.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/gitlab.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/gh-actions.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/jenkins-io.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/azure-pipelns.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/airflow.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/datadog_purple.png?raw=true" width="25" height="25">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/godot.png?raw=true" width="25" height="25">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/tux.png?raw=true" width="28" height="28">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/terra.png?raw=true" width="28" height="28">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/bash.png?raw=true" width="28" height="28">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/docker.png?raw=true" width="28" height="28">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/kube.png?raw=true" width="28" height="28">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/git.png?raw=true" width="28" height="28">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/aws.png?raw=true" width="28" height="28">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/gcp.png?raw=true" width="28" height="28">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/node.png?raw=true" width="28" height="28">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/python.png?raw=true" width="28" height="28">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/maria.png?raw=true" width="28" height="28">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/psgsql.png?raw=true" width="28" height="28">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/airflow.png?raw=true" width="28" height="28">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/datadog_purple.png?raw=true" width="28" height="28">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/godot.png?raw=true" width="28" height="28">
 </p>
 
-#### About me
+#### Things about me
 
-- 🛫 Passionate about traveling and tourism.
-- 🍿 Huge fan of thriller, sci-fi, Burton and Nolan's movies in general.
-- 🍸 I really like Mojitos.
-- 🐕 Dogs are better than cats.
-- 🐧 Huge fan of Linux and open-source.
-- 💬 I enjoy teaching! so fell free to ask me about anything.
+- 🎹 I love music, guitars and synthesizers - Don't know how to play any of these.
+- 🥃 Averge JW gold or any other honey-blend whiskey enjoyer.
+- 🍿 Huge fan of Thrillers, sci-fi, Burton and Nolan's movies.
+- 🐕 Dogs rule, cats drool.
+- 💿 I love dropping money on CDs, DVDs, and some old videogames.
+- 🐧 Okay-ish Linux (Mate + Compiz) user.
+- 💬 I like teaching! so fell free to ask me about anything.
 
-#### Reach me
+
+#### Reach mew
 - [LinkedIn](https://linkedin.com/in/ramaureirac)
 - [Email](mailto:ramaureirac@pm.me)
 - [Telegram](https://t.me/ramaureirac)
