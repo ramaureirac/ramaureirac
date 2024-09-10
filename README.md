@@ -32,6 +32,7 @@ These are the technologies I normally work with:
 - 💿 I love dropping money on CDs, DVDs, and some old videogames.
 - 🐧 Okay-ish Linux (Mate + Compiz) user.
 - 💬 I like teaching! so fell free to ask me about anything.
+- <img src="https://i.postimg.cc/SNdWW33L/ms-cheems.png" width="16" height="17"> Microsoft Teams gives me anxiety.
 
 
 #### Reach me
