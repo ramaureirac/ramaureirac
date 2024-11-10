@@ -2,8 +2,6 @@
 
 My name is Rodrigo Maureira and I'm a Solutions Architect enthusiast from Valparaíso, Chile.
 
-Copilot suggested to talk about myself, but there isn't much to say. In fact I'm pretty basic: I enjoy traveling, music, whiskey, and videogames. Currently, I work as DevOps and do C.S. classes for a living. I own an orange cat named Ruby.
-
 These are the technologies I normally work with:
 <p>
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/tux.png?raw=true" width="28" height="28">
@@ -25,7 +23,7 @@ These are the technologies I normally work with:
 
 #### Things about me
 
-- 🎹 I love music, guitars and synthesizers - Don't know how to play any of these.
+- 🎹 I love music, guitars and synthesizers -- Don't know how to play any of these.
 - 🥃 Average honey-blend whiskey enjoyer.
 - 🍿 Huge fan of thriller, sci-fi, Burton and Nolan's movies.
 - 🐕 Dogs rule, cats drool.
