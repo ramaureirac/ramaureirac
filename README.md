@@ -23,12 +23,12 @@ These are the technologies I normally work with:
 
 #### Things about me
 
-- 🎹 I love music, guitars and synthesizers -- Don't know how to play any of these.
+- 🎹 I love music, guitars and synthesizers
 - 🥃 Cocktail and bartending enjoyer.
 - 🍿 Huge fan of thriller, sci-fi, Burton and Nolan's movies.
 - 💿 I love dropping money on retro stuff.
-- 💬 Fell free to ask me about anything.
 - <img src="https://i.postimg.cc/SNdWW33L/ms-cheems.png" width="16" height="17"> Microsoft Teams gives me anxiety.
+- 💬 Fell free to ask me about anything.
 
 
 #### Reach me
