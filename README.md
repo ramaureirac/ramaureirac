@@ -24,12 +24,10 @@ These are the technologies I normally work with:
 #### Things about me
 
 - 🎹 I love music, guitars and synthesizers -- Don't know how to play any of these.
-- 🥃 Average honey-blend whiskey enjoyer.
+- 🥃 Cocktail and bartending enjoyer.
 - 🍿 Huge fan of thriller, sci-fi, Burton and Nolan's movies.
-- 🐕 Dogs rule, cats drool.
-- 💿 I love dropping money on CDs, DVDs, and some old videogames.
-- 🐧 Okay-ish Linux (Mate + Compiz) user.
-- 💬 I like teaching! so fell free to ask me about anything.
+- 💿 I love dropping money on retro stuff.
+- 💬 Fell free to ask me about anything.
 - <img src="https://i.postimg.cc/SNdWW33L/ms-cheems.png" width="16" height="17"> Microsoft Teams gives me anxiety.
 
 
