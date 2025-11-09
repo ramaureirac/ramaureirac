@@ -13,8 +13,8 @@ These are the technologies I normally work with:
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/aws.png?raw=true" width="28" height="28">
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/gcp.png?raw=true" width="28" height="28">
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/node.png?raw=true" width="28" height="28">
+    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/go.png?raw=true" width="28" height="28">
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/python.png?raw=true" width="28" height="28">
-    <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/maria.png?raw=true" width="28" height="28">
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/psgsql.png?raw=true" width="28" height="28">
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/airflow.png?raw=true" width="28" height="28">
     <img src="https://github.com/ramaureirac/ramaureirac/blob/main/img/datadog_purple.png?raw=true" width="28" height="28">
