@@ -27,7 +27,6 @@ These are the technologies I normally work with:
 - 🥃 Cocktail and bartending enjoyer.
 - 🍿 Huge fan of thriller, sci-fi, Burton and Nolan's movies.
 - 💿 I love dropping money on retro stuff.
-- <img src="https://i.postimg.cc/SNdWW33L/ms-cheems.png" width="16" height="17"> Microsoft Teams gives me anxiety.
 - 💬 Fell free to ask me about anything.
 
 
@@ -35,3 +34,4 @@ These are the technologies I normally work with:
 - [LinkedIn](https://linkedin.com/in/ramaureirac)
 - [Email](mailto:ramaureirac@pm.me)
 - [Telegram](https://t.me/ramaureirac)
+- [Website](https://ramc.sh)
